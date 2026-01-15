@@ -1,4 +1,4 @@
-🐍 Snake Game em Java – Versão Melhorada
+🐍 Snake Game em Java – Versão Básica
 
 Este projeto é uma implementação moderna do clássico Snake, totalmente desenvolvida em Java, com foco em simplicidade, portabilidade e jogabilidade fluida. Inclui várias melhorias face às versões tradicionais, como sistema de pontuação, níveis de dificuldade dinâmicos, efeitos sonoros retro, gráficos mais claros e armazenamento de highscore em ficheiro, garantindo que o melhor resultado permanece mesmo após fechar o jogo.
 
